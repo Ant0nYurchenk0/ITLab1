@@ -1,0 +1,177 @@
+{
+  "Name": "new_db",
+  "Path": "D:\\Prog\\new_db.json",
+  "Tables": [
+    {
+      "Name": "table1",
+      "Columns": [
+        {
+          "Name": "name",
+          "Type": 0
+        },
+        {
+          "Name": "subject",
+          "Type": 0
+        },
+        {
+          "Name": "age",
+          "Type": 1
+        },
+        {
+          "Name": "hobby",
+          "Type": 0
+        }
+      ],
+      "Rows": [
+        {
+          "Id": 0,
+          "Values": [
+            "Naina",
+            "Mathematics",
+            "24",
+            "Cricket"
+          ]
+        },
+        {
+          "Id": 1,
+          "Values": [
+            "Varun",
+            "Physics",
+            "26",
+            "Football"
+          ]
+        },
+        {
+          "Id": 2,
+          "Values": [
+            "Dev",
+            "Mathematics",
+            "23",
+            "Cricket"
+          ]
+        },
+        {
+          "Id": 3,
+          "Values": [
+            "Priya",
+            "Physics",
+            "25",
+            "Cricket"
+          ]
+        },
+        {
+          "Id": 4,
+          "Values": [
+            "Adithya",
+            "Chemistry",
+            "21",
+            "Cricket"
+          ]
+        },
+        {
+          "Id": 5,
+          "Values": [
+            "Kalyan",
+            "Mathematics",
+            "30",
+            "Football"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "table2",
+      "Columns": [
+        {
+          "Name": "name",
+          "Type": 0
+        },
+        {
+          "Name": "hobby",
+          "Type": 0
+        },
+        {
+          "Name": "age",
+          "Type": 1
+        }
+      ],
+      "Rows": [
+        {
+          "Id": 0,
+          "Values": [
+            "Vijay",
+            "Cricket",
+            "18"
+          ]
+        },
+        {
+          "Id": 1,
+          "Values": [
+            "Varun",
+            "Football",
+            "26"
+          ]
+        },
+        {
+          "Id": 2,
+          "Values": [
+            "Surya",
+            "Cricket",
+            "19"
+          ]
+        },
+        {
+          "Id": 3,
+          "Values": [
+            "Karthik",
+            "Cricket",
+            "25"
+          ]
+        },
+        {
+          "Id": 4,
+          "Values": [
+            "Sunny",
+            "Football",
+            "26"
+          ]
+        },
+        {
+          "Id": 5,
+          "Values": [
+            "Dev",
+            "Cricket",
+            "23"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "table3",
+      "Columns": [
+        {
+          "Name": "real",
+          "Type": 2
+        },
+        {
+          "Name": "char",
+          "Type": 3
+        },
+        {
+          "Name": "datetime",
+          "Type": 4
+        }
+      ],
+      "Rows": [
+        {
+          "Id": 0,
+          "Values": [
+            "12.5",
+            "a",
+            "12/25/2022"
+          ]
+        }
+      ]
+    }
+  ]
+}
